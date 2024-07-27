@@ -1,0 +1,5 @@
+Setup
+
+Install Anaconda
+Anaconda Prompt -> conda install pydotplus
+Anaconda Prompt -> pip install tensorflow
